@@ -57,7 +57,7 @@ Videos speak louder than pictures and words put together:
 
 Create a new project by clicking on **File>New>Project**. On the **New Project Dialog**, search for "plug-in", select **New Plug-in Project** and click **Next**. Create a new plugin project named **org.eclipsecon.swtbot.example**.
 
-![Swtbot-create-project.gif](https://raw.githubusercontent.com/eclipse-swtbot/org.eclipse.swtbot/master/docs/images/Swtbot-create-project.gif)
+![Swtbot-create-project.gif](https://raw.githubusercontent.com/vogella/org.eclipse.swtbot/master/docs/images/Swtbot-create-project.gif)
 
 ### Configuration
 
@@ -71,7 +71,7 @@ Create a new project by clicking on **File>New>Project**. On the **New Project D
   org.apache.log4j
   
 
-![Swtbot-setup-dependencies.gif](https://raw.githubusercontent.com/eclipse-swtbot/org.eclipse.swtbot/master/docs/images/Swtbot-setup-dependencies.gif)
+![Swtbot-setup-dependencies.gif](https://raw.githubusercontent.com/vogella/org.eclipse.swtbot/master/docs/images/Swtbot-setup-dependencies.gif)
 
 ### Getting started with SWTBot
 
@@ -131,11 +131,11 @@ Below you can find a sample SWTBot testcase:
 
 Now that you've written the great test that you'd always wanted to, lets now see it run. In order to run the test, right click on the test and select **Run As > SWTBot Test**
 
-![Run-as-option.jpg](https://raw.githubusercontent.com/eclipse-swtbot/org.eclipse.swtbot/master/docs/images/Run-as-option.jpg)
+![Run-as-option.jpg](https://raw.githubusercontent.com/vogella/org.eclipse.swtbot/master/docs/images/Run-as-option.jpg)
 
 Select the application that you want to test
 
-![Run-as-config-options.jpg](https://raw.githubusercontent.com/eclipse-swtbot/org.eclipse.swtbot/master/docs/images/Run-as-config-options.jpg)
+![Run-as-config-options.jpg](https://raw.githubusercontent.com/vogella/org.eclipse.swtbot/master/docs/images/Run-as-config-options.jpg)
 
 GEF/GMF-based editor testing
 ============================
